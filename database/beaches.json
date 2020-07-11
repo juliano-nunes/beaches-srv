@@ -1,0 +1,94 @@
+{
+  "beaches": [
+    {
+      "name": "Praia do Gunga",
+      "description": "A Praia do Gunga é uma das praias paradisíacas do nordeste mais conhecida. Como muitas pessoas ficam em Maceió acabam fazendo o passeio até lá, o lugar em bem acessível. É famosa pelas falésias espalhadas pelo ambiente, onde é possível fazer passeios de buggy além de aproveitar um banho na água salgada do mar.",
+      "image": "gunga.png",
+      "location": {
+        "state": "AL",
+        "city": "Roteiro"
+      }
+    },
+    {
+      "name": "Praia do Espelho",
+      "description": "Uma das praias paradisíacas na Bahia que é conhecida internacionalmente é a Praia do Espelho. O mais recomendado é visitar o local quando estiver com maré baixa, ai você pode entender o significado do “espelho”, onde é possível ver o reflexo do céu nas águas do mar. No entanto, o local também é interessante por conta da vegetação que cerca, dando a impressão de uma praia mais afastada e deserta.",
+      "image": "espelho-trancoso-ba.jpg",
+      "location": {
+        "state": "BA",
+        "city": "Trancoso"
+      }
+    },
+    {
+      "name": "Praia do Félix",
+      "description": "Uma das melhores praias do Brasil é a do Félix, porque lá você não vai precisar se preocupar com nada. O ambiente é conhecido por ser quase deserto e atrair muitos turistas que buscam tranquilidade, as águas são calmas de um lado e agitadas de outros, assim tanto aqueles que querem flutuar quanto os que buscam surfar conseguem encontrar o ponto perfeito.",
+      "image": "felix-sao-paulo-sp.jpeg",
+      "location": {
+        "state": "SP",
+        "city": "Ubatuba"
+      }
+    },
+    {
+      "name": "Prainhas",
+      "description": "As prainhas tem esse nome porque na verdade são duas praias, que quando a maré está baixa se unem em uma única faixa de areia. Elas compõem as praias paradisíacas no Rio de Janeiro, sendo que lá você vai encontrar águas sempre calmas e transparentes, com areias branquinhas em sua volta. Lembrando que a coloração do mar pode variar de verde a um azul bem vivo. E aí, qual você prefere?",
+      "image": "arraial-rio-de-janeiro-rj.jpg",
+      "location": {
+        "state": "RJ",
+        "city": "Arraial do Cabo"
+      }
+    },
+    {
+      "name": "Praia do Aventureiro",
+      "description": "Você já viu um coqueiro deitado? Na Praia do Aventureiro existe um, que é uma das grandes atrações do local. O ambiente é famoso por ser isolado e ter mar agitado, além de ser casa de inúmeros pescadores e povos “caiçaras”. Para aproveitar o melhor que a praia tem para oferecer, por que não experimenta um camping com amigos em uma praias paradisíacas no Brasil?",
+      "image": "aventureiro-rio-de-janeiro-rj.jpg",
+      "location": {
+        "state": "RJ",
+        "city": "Ilha Grande"
+      }
+    },
+    {
+      "name": "Praia de Antunes",
+      "description": "Você está afim de relaxar e descansar em uma das praias paradisíacas do Brasil? A Praia de Antunes é uma das mais famosas da região, já que possui uma grande quantidade de atividades. Lá você pode fazer passeios de caiaque e vela, além de curtir a paisagem de coqueiros andando de buggy na areia beira mar. Mas para dizer que esteve em Antunes, não pode deixar de mergulhar em uma das piscinas naturais.",
+      "image": "antunes-maragogi-al.jpg",
+      "location": {
+        "state": "AL",
+        "city": "Maragogi"
+      }
+    },
+    {
+      "name": "Praia dos Carneiros",
+      "description": "Em algum momento você já deve ter ouvido falar na Praia dos Carneiros. O local chama a atenção de muitos visitantes porque tem uma igreja bem na frente do mar, chamada Capela de São Benedito. É considerada uma das praias mais lindas do Brasil porque além de todo aspecto cultural, você também pode aproveitar as piscinas naturais e curtir uma água bem esverdeada.",
+      "image": "carneiros-tamandare-pe.jpg",
+      "location": {
+        "state": "PE",
+        "city": "Tamandaré"
+      }
+    },
+    {
+      "name": "Praia de Tambaba",
+      "description": "A Praia de Tambaba é uma das melhores praias do Brasil e possui diversas curiosidades. A primeira é o coqueiro solitário que está localizado em cima de uma das pedras, tornando-se a imagem de caixa postal da praia. Outra curiosidade sobre o ambiente é que existe uma parte voltada para a prática de naturismo, onde muitos surfistas vão competir e aproveitar as ondas.",
+      "image": "tambaba-conde-pb.jpg",
+      "location": {
+        "state": "PB",
+        "city": "Conde"
+      }
+    },
+    {
+      "name": "Praia do Madeiro",
+      "description": "Essa é sem dúvida uma das praias mais famosas do Brasil. Se você está procurando um destino que tenha águas quentinhas e você possa praticar esportes, a Praia do Madeiro é a ideal. O ambiente é reconhecido internacionalmente por ser propício para práticas de esportes como futebol e surf para iniciantes. Mas além disso, a grande surpresa é a presença de golfinhos no período da manhã.",
+      "image": "madeiro-pipa-rn.jpg",
+      "location": {
+        "state": "RN",
+        "city": "Pipa"
+      }
+    },
+    {
+      "name": "Baía do Sancho",
+      "description": "Uma das praias paradisíacas no Brasil que você já deve ter ouvido falar é a Baía do Sancho. Lá é o lugar ideal para você praticar mergulho livre, ver as espécies marinhas bem do seu lado debaixo de uma água quase transparente. Além disso, também é possível fazer trilhas e subir nas montanhas, onde a visão dos mirantes costuma deslumbrar os turistas.",
+      "image": "sancho-fernando-de-noronha-rn.jpg",
+      "location": {
+        "state": "PE",
+        "city": "Fernando de Noronha"
+      }
+    }
+  ]
+}
